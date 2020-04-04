@@ -1,0 +1,11 @@
+C:\Users\Сашок\source\repos\LAba_po_programachu_6\LAba_po_programachu_6\bin\Debug\netcoreapp3.1\LAba_po_programachu_6.exe
+C:\Users\Сашок\source\repos\LAba_po_programachu_6\LAba_po_programachu_6\bin\Debug\netcoreapp3.1\LAba_po_programachu_6.deps.json
+C:\Users\Сашок\source\repos\LAba_po_programachu_6\LAba_po_programachu_6\bin\Debug\netcoreapp3.1\LAba_po_programachu_6.runtimeconfig.json
+C:\Users\Сашок\source\repos\LAba_po_programachu_6\LAba_po_programachu_6\bin\Debug\netcoreapp3.1\LAba_po_programachu_6.runtimeconfig.dev.json
+C:\Users\Сашок\source\repos\LAba_po_programachu_6\LAba_po_programachu_6\bin\Debug\netcoreapp3.1\LAba_po_programachu_6.dll
+C:\Users\Сашок\source\repos\LAba_po_programachu_6\LAba_po_programachu_6\bin\Debug\netcoreapp3.1\LAba_po_programachu_6.pdb
+C:\Users\Сашок\source\repos\LAba_po_programachu_6\LAba_po_programachu_6\obj\Debug\netcoreapp3.1\LAba_po_programachu_6.csprojAssemblyReference.cache
+C:\Users\Сашок\source\repos\LAba_po_programachu_6\LAba_po_programachu_6\obj\Debug\netcoreapp3.1\LAba_po_programachu_6.AssemblyInfoInputs.cache
+C:\Users\Сашок\source\repos\LAba_po_programachu_6\LAba_po_programachu_6\obj\Debug\netcoreapp3.1\LAba_po_programachu_6.AssemblyInfo.cs
+C:\Users\Сашок\source\repos\LAba_po_programachu_6\LAba_po_programachu_6\obj\Debug\netcoreapp3.1\LAba_po_programachu_6.dll
+C:\Users\Сашок\source\repos\LAba_po_programachu_6\LAba_po_programachu_6\obj\Debug\netcoreapp3.1\LAba_po_programachu_6.pdb
